@@ -15,7 +15,7 @@ This repository contains automation tests using Playwright. Follow the steps bel
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/your-repo-name.git](https://github.com/mituldas1999/Bootcampshub_Portal_Automation_Using_Playwright
    cd your-repo-name
    ```
 
